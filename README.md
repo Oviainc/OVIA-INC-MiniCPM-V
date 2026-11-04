@@ -1,3 +1,7 @@
+> **Ovia Inc fork — modification reference.** We maintain this fork of [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V). **Modifications by Ovia Inc: this reference note, added November 2026 s part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit in this repository says so. Upstream credit: OpenBMB. Licence: Apache-2.0 (see LICENSE where present).
+
+---
+
 <div align="center">
 
 <img src="./assets/minicpm_v_and_minicpm_o_title.png" width="500em" ></img> 
